@@ -42,7 +42,7 @@ Get a cool playing field: Warning, can get you banned from Discord, use at risk.
 
 ### Step 6, Fill out the rest of the config to your liking. 
 
-#### either run "node app.js" in your terminal window, or run the given launch.cmd file to have it auto run the script.
+#### How to use frist open ```install.cmd``` than u can run the scripts from ```run.cmd```
 
 ![rich](https://i.imgur.com/fa7tGaE.png)
 
