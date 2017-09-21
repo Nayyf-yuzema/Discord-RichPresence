@@ -1,0 +1,10 @@
+{
+    "token": "paste your token there",
+    "name": " TEXT 1",
+    "subText": "TEXT 2",
+    "state": " TEXT 3",
+    "applicationID": " your bot client id",
+    "smallImgID": "small id image",
+    "smallImgText": " TEXT 4",
+    "largeImgID": "big id image",
+}

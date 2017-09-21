@@ -1,0 +1,14 @@
+{
+  "name": "richpresence",
+  "version": "1.0.0",
+  "description": "discord richpresence editor",
+  "main": "Yuzema.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Solace",
+  "license": "ISC",
+  "dependencies": {
+    "discord.js": "^11.2.1"
+  }
+}
